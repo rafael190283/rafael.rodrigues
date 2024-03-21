@@ -1,0 +1,30 @@
+h1 {
+    background-color: rgb(55, 214, 214);
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.button {
+    text-align: center;
+    font-size: 60px;
+}
+
+.imagem {
+    text-align: center;
+}
+.contatos {
+    text-align: center;
+}
+
+.mensagens {
+    text-align: center
+    ;
+}
